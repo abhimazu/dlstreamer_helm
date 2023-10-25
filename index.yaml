@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   dlstreamer:
   - apiVersion: v2
-    created: "2023-10-25T22:50:12.7030572+05:30"
+    created: "2023-10-25T22:53:23.4471748+05:30"
     description: A Helm chart to deploy DLStreamer face and pose containers on a single
       GPU
     digest: 5f72d583c29de682ee6e66c91f5c96db9b03991423784a6bf16533d1c28aff05
@@ -10,4 +10,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/abhimazu/dlstreamer_helm/test/dlstreamer.tgz
     version: 0.1.0
-generated: "2023-10-25T22:50:12.7025149+05:30"
+generated: "2023-10-25T22:53:23.4461339+05:30"
